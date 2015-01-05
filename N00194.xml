@@ -111,12 +111,12 @@
    <text xml:lang="eng">
       <body>
          <div type="laws_and_orders">
-            <pb facs="tcp:000253_0000_0FA41004E9BBA3B8"/>
-            <pb n="61" facs="tcp:000253_0001_0FA41005AB49D150"/>
+            <pb facs="unknown:000253_0000_0FA41004E9BBA3B8"/>
+            <pb n="61" facs="unknown:000253_0001_0FA41005AB49D150"/>
             <head>SEVERAL Laws and Orders Made at the second Sessions of the GENERAL COURT Held at Boston, October 2<hi rend="sup">d</hi> 1678. And published by their Order. Edward Rawson Secr.</head>
             <div type="oath">
                <p>I A. B. doe truly and sincerely acknowledge, profess, testifie, and declare in my Conscience, before God and the world, that our Sovereign Lord <hi>King Charles</hi> is lawfull and rightfull King of the Realm of <hi>England,</hi> and of all other His Majestyes Domi<g ref="char:EOLhyphen"/>nions and Countryes; and that the Pope, neither of himself, nor by any Authority of the Church or See of <hi>Rome,</hi> or by any other means with any other hath any power or Authority to depose the King, <note place="margin">The Oath of Allegiance.</note> or to dispose any of his Majestyes Kingdomes or Dominions, or to authorize any foreign Prince to invade or annoy Him or His Countrey; or to dis<g ref="char:EOLhyphen"/>charge any of his Subjects of their Allegiance and Obedience to his Ma<g ref="char:EOLhyphen"/>jesty, or to give licence or leave to any of them to bear Arms, raise Tu<g ref="char:EOLhyphen"/>mults, or offer any violence or hurt to his Majestyes Royal Person,
-<pb n="62" facs="tcp:000253_0002_0FA41006DD6C7498"/>
+<pb n="62" facs="unknown:000253_0002_0FA41006DD6C7498"/>
 State or Goverment, or to any of his Majestyes Subjects <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> Ma<g ref="char:EOLhyphen"/>jestyes Dominions.</p>
@@ -228,7 +228,7 @@ State or Goverment, or to any of his Majestyes Subjects <gap reason="illegible: 
                   </gap> in his Majesties Letter, and signed by the Secretary of State, <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="63" facs="tcp:000253_0003_0FA4100770E6CC80"/>
+                  <pb n="63" facs="unknown:000253_0003_0FA4100770E6CC80"/>
 for <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> to every Magistrate and Justice of Peace, and to the Constable of every Town within this Jurisdiction.</p>
@@ -261,7 +261,7 @@ for <gap reason="illegible: indecipherable" extent="1 word">
                <p>IT is Ordered by this Court and the Authority thereof, <note place="margin">Proceeding of Compa<g ref="char:EOLhyphen"/>nyes in Towns</note> that in all Towns within this Jurisdiction, where there shall be more Compa<g ref="char:EOLhyphen"/>nyes then one, the precedency of such Companyes shall be according to the Priority of the Captains Commission.</p>
             </div>
             <div type="order">
-               <pb n="64" facs="tcp:000253_0004_0FA4100A972CD898"/>
+               <pb n="64" facs="unknown:000253_0004_0FA4100A972CD898"/>
                <head>Direction for Clerk of the Writts.</head>
                <p>FOR the ascertaining the power of the Clarks of the Writts, <note place="margin">Clerk of the Writts Dire<g ref="char:EOLhyphen"/>ction.</note> It is Ordered that all Clerks of the Writts shall sign Warrants only in the Towns and places where they are chosen and reside.</p>
                <p n="2">2. That all Writts so signed shall pass in all Courts of Judicature throughout the Colony they singing, <hi>A. B. per Curiam, for the town of C.</hi>
